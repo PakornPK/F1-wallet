@@ -1,5 +1,9 @@
+github.com/Zauberstuhl/go-coinbase v1.0.0 h1:P98MLwPHd+Af/odAwM7zo4Xm9zA0A3+kIb7curHAMIA=
+github.com/Zauberstuhl/go-coinbase v1.0.0/go.mod h1:8ZnAd21UXoShhsswjy9qIwsRhCOHJazaAK/IpGBQG0w=
 github.com/andybalholm/brotli v1.0.1 h1:KqhlKozYbRtJvsPrrEeXcO+N2l6NYT5A2QAFmSULpEc=
 github.com/andybalholm/brotli v1.0.1/go.mod h1:loMXtMfwqflxFJPmdbJO0a3KNoPuLBgiu3qAvBg8x/Y=
+github.com/fabioberger/coinbase-go v0.0.0-20160522011833-8328539b18ab h1:odM/npqUscEtKetZu2RU1I9wVkPBh8sV14PiCbsBLMU=
+github.com/fabioberger/coinbase-go v0.0.0-20160522011833-8328539b18ab/go.mod h1:xJ+HhsY90LojVt3vnpArzFEcf13xDhHdjnWBhMmhDOA=
 github.com/gofiber/fiber/v2 v2.10.0 h1:cYwonWaFVa7wBd/LKhgKu7mFNg2CHv5ztY6gzXtrvW8=
 github.com/gofiber/fiber/v2 v2.10.0/go.mod h1:Ah3IJikrKNRepl/HuVawppS25X7FWohwfCSRn7kJG28=
 github.com/klauspost/compress v1.11.8/go.mod h1:aoV0uJVorq1K+umq18yTdKaF57EivdYsUV+/s2qKfXs=
