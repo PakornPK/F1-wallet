@@ -1,7 +1,7 @@
 TARGET_PATH = bin
 GOARCH = GOARCH=amd64
-GOMODULE = github.com/PakornPK/F1-wallet/cmd/f1-wallet
-GOPROJECT = F1-wallet
+GOMODULE = github.com/PakornPK/F1-wallet/cmd/f1Wallet
+GOPROJECT = F1Wallet
 
 buildWindows:
 	env GOOS=windows $(GOARCH) go build -o ./$(TARGET_PATH)/windows/${GOPROJECT}.exe $(GOMODULE)
